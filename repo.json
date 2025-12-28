@@ -6,8 +6,8 @@
     "Description": "Allows you to see your body in First Person along with optional Camera -> Head Bindings",
     "Tags": [ ],
     "InternalName": "SamplePlugin",
-    "AssemblyVersion": "1.4.2.0",
-    "TestingAssemblyVersion": "1.4.2.0",
+    "AssemblyVersion": "1.4.2.1",
+    "TestingAssemblyVersion": "1.4.2.1",
     "RepoUrl": "https://github.com/TiraesiascenGraven/POVPlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -19,6 +19,7 @@
     "DownloadLinkUpdate": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlus2.zip"
   }
 ]
+
 
 
 
