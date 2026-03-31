@@ -9,6 +9,7 @@ It will then appear under the name "POV+" in the All Plugins list
 
 **TODO LIST / KNOWN BUGS**  
 Disabling the mod when in GPOSE
+
 Fixing the Disable Mod button to actualy disable the mod instead of limiting mod functionality
 
 Weird transition issue on the camera when in "Plugin Disabled in third person" - Probably need to actualy bind that fuctionality to a disable instead of just faking the disable atm.
