@@ -8,9 +8,9 @@ Copy https://raw.githubusercontent.com/TiraesiascenGraven/POVPlus/main/repo.json
 It will then appear under the name "POV+" in the All Plugins list
 
 **TODO LIST / KNOWN BUGS**  
-FOV Slider applies to third person after leaving first person - COMPLETED?  
-The / command needs to be renamed  - COMPLETED?
-An optional button to disable the camera in third person needs to be added (and maybe FOV too) - COMPLETED?  
+Disabling the mod when in GPOSE
+Fixing the Disable Mod button to actualy disable the mod instead of limiting mod functionality
+
 Weird transition issue on the camera when in "Plugin Disabled in third person" - Probably need to actualy bind that fuctionality to a disable instead of just faking the disable atm.
 
 
