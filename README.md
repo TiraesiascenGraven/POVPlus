@@ -7,12 +7,15 @@ It also stops making characters invisible when too close to the camera allowing 
 
 **Download Instructions:**  
 Copy https://raw.githubusercontent.com/TiraesiascenGraven/POVPlus/main/repo.json into Dalamud Custom Plugin Repository.  
-It will then appear under the name "POV+" in the All Plugins list
+It will then appear under the name "POV+" or "PovPlus" in the All Plugins list
 
 **TODO LIST / KNOWN BUGS**  
 
 Weird transition issue on the camera when in "Plugin Disabled in third person" 
 
+Stutter when switching between first and third person if Enabled in third person is disabled
+
+The camera panning from a distance away when you zoom in for the first time with the mod enabled
 
 
 
