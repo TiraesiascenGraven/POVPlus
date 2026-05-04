@@ -10,7 +10,7 @@
     "TestingAssemblyVersion": "1.4.2.2",
     "RepoUrl": "https://github.com/TiraesiascenGraven/POVPlus",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "IsHide": "False",
     "DownloadCount": 1,
     "LastUpdate": 1766962801,
