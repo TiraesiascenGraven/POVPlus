@@ -4,19 +4,19 @@
     "Name": "POV+",
     "Punchline": "More immersive First Person + Motion Sickness!",
     "Description": "Allows you to see your body in First Person along with optional Camera -> Head Bindings",
-    "Tags": [ ],
-    "InternalName": "SamplePlugin",
-    "AssemblyVersion": "1.4.2.1",
-    "TestingAssemblyVersion": "1.4.2.1",
+    "Tags": ["POV"],
+    "InternalName": "PovPlus",
+    "AssemblyVersion": "1.4.2.2",
+    "TestingAssemblyVersion": "1.4.2.2",
     "RepoUrl": "https://github.com/TiraesiascenGraven/POVPlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "IsHide": "False",
     "DownloadCount": 1,
     "LastUpdate": 1766962800,
-    "DownloadLinkInstall": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlus2.zip",
-    "DownloadLinkTesting": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlus2.zip",
-    "DownloadLinkUpdate": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlus2.zip"
+    "DownloadLinkInstall": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlusV3.zip",
+    "DownloadLinkTesting": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlusV3.zip",
+    "DownloadLinkUpdate": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlusV3.zip"
   }
 ]
 
