@@ -7,7 +7,7 @@
     "Tags": ["POV"],
     "InternalName": "PovPlus",
     "AssemblyVersion": "1.4.2.2",
-    "TestingAssemblyVersion": "1.5.2.2",
+    "TestingAssemblyVersion": "1.5.2.4",
     "RepoUrl": "https://github.com/TiraesiascenGraven/POVPlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -16,7 +16,7 @@
     "DownloadCount": 1,
     "LastUpdate": 1766962802,
     "DownloadLinkInstall": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlusV3.zip",
-    "DownloadLinkTesting": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/PovPlusBeta.zip",
+    "DownloadLinkTesting": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/PovPlusBeta2.zip",
     "DownloadLinkUpdate": "https://github.com/TiraesiascenGraven/POVPlus/raw/main/POVPlusV3.zip"
   }
 ]
